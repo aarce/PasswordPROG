@@ -8,8 +8,7 @@ import java.awt.event.*;
 import java.util.Arrays;
 
 
-public class Password extends JPanel
-                          implements ActionListener {
+public class Password extends JPanel implements ActionListener {
     /**
 	 * 
 	 */
